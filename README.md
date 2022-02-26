@@ -17,8 +17,7 @@
 <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
 <a href="https://html.com/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>![java-original](https://user-images.githubusercontent.com/58817463/155848182-58b870c0-15f4-46bb-8ccd-eb9a1eae67c7.svg)
-
+<a href="#"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/></a>
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/fluency/48/000000/node-js.png"/></a>
 <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
