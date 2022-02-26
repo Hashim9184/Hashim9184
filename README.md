@@ -25,3 +25,4 @@
 <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 <a href="https://www.figma.com/"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+<a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/ios/50/000000/django.png"/></a>
