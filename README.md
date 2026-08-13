@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Hashim Shaikh </h1>
+<h1 align="center"> Hi 👋, I'm Hashim </h1>
 <h3 align="center"> A passionate MERN Stack Developer From India </h3>
 
 - 👋 Hi, I’m Hashim-Shaikh
